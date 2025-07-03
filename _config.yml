@@ -1,9 +1,0 @@
-title: Hello Jekyll Elementor
-description: A Jekyll theme inspired by Hello Elementor, with blog support
-baseurl: "https://naveenvkumar.github.io/autotranscribe/"
-url: ""
-markdown: kramdown
-paginate: 5
-paginate_path: "/page:num"
-plugins:
-  - jekyll-paginate

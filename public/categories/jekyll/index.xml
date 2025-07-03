@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on console-demo</title>
+    <link>http://localhost:1313/categories/jekyll/</link>
+    <description>Recent content in Jekyll on console-demo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Intelligence Enough</title>
+      <link>http://localhost:1313/posts/is-intelligence-enough/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/is-intelligence-enough/</guid>
+      <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one&amp;rsquo;s self is very difficult.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Example</title>
+      <link>http://localhost:1313/posts/markup-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markup-example/</guid>
+      <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated. Something.&lt;/p&gt;&#xA;&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Powerful things you can do with the Markdown editor</title>
+      <link>http://localhost:1313/posts/powerful-things-markdown-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/powerful-things-markdown-editor/</guid>
+      <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;&#xA;&lt;p&gt;As with the last post about the editor, you&amp;rsquo;ll want to be actually editing this post as you read it so that you can see all the Markdown code we&amp;rsquo;re using.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
