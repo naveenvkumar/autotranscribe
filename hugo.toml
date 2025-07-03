@@ -1,4 +1,0 @@
-baseURL = 'https://naveenvkumar.github.io/autotranscribe/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
