@@ -1,5 +1,5 @@
-baseurl = "https://example.com/"
-title = "console-demo"
+baseurl = "https://naveenvkumar.github.io/autotranscribe/"
+title = "AutoTranscribe"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
